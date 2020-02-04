@@ -2,32 +2,6 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-.highlight {
-    background: 33b1ff !important;
-}
-.blob-wrapper {
-    background: 33b1ff;
-}
-pre {
-    background: 33b1ff;
-}
-table.rouge-table {
-    background: 33b1ff !important;
-}
-td.code {
-    background: 33b1ff !important;
-}
-.blob-wrapper.data.type-typescript {
-}
-
-.blob-code {
-    background: 33b1ff !important;
-}
-
-.blob-num {
-    background: 33b1ff !important;
-}
-
 @import "base";
 @import "button";
 @import "type";
